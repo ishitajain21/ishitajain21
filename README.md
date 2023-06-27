@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ishitajain21
-- 👀 I’m interested in Data Science, AI
-- 🌱 I’m currently learning Data Science (how to make models)
+- 👀 I’m interested in Quantitative Finance and Machine Learning
 
 
 <!---
