@@ -5,7 +5,6 @@
 - Linkedin: (https://www.linkedin.com/in/ishita-jain2121/)
 - Kaggle:(https://www.kaggle.com/aloha11112414)
 - Medium: (https://medium.com/@ishitajain21)
-- 
 
 
 <!---
